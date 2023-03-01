@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/sales_approvals_workflow"]
+	path = Integrated-Path/sales_approvals_workflow
+	url = git@github.com:Integrated-Path/sales_approvals_workflow.git
+	branch = master
