@@ -2,3 +2,8 @@
 	path = Integrated-Path/sales_approvals_workflow
 	url = git@github.com:Integrated-Path/sales_approvals_workflow.git
 	branch = master
+
+[submodule "Integrated-Path/od_digital_link_custom"]
+	path = Integrated-Path/od_digital_link_custom
+	url = git@github.com:Integrated-Path/od_digital_link_custom.git
+	branch = master
