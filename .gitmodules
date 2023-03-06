@@ -7,3 +7,8 @@
 	path = Integrated-Path/od_digital_link_custom
 	url = git@github.com:Integrated-Path/od_digital_link_custom.git
 	branch = master
+
+[submodule "Integrated-Path/od_purchase_approval"]
+	path = Integrated-Path/od_purchase_approval
+	url = git@github.com:Integrated-Path/od_purchase_approval.git
+	branch = master
