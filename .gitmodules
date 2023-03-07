@@ -12,3 +12,8 @@
 	path = Integrated-Path/od_purchase_approval
 	url = git@github.com:Integrated-Path/od_purchase_approval.git
 	branch = master
+
+[submodule "Integrated-Path/dl_bi_pos_multi_currency"]
+	path = Integrated-Path/dl_bi_pos_multi_currency
+	url = git@github.com:Integrated-Path/dl_bi_pos_multi_currency.git
+	branch = master
