@@ -22,3 +22,8 @@
 	path = Integrated-Path/prt_report_attachment_preview
 	url = git@github.com:Integrated-Path/prt_report_attachment_preview.git
 	branch = master
+
+[submodule "Integrated-Path/od_move_balance"]
+	path = Integrated-Path/od_move_balance
+	url = git@github.com:Integrated-Path/od_move_balance.git
+	branch = 16
