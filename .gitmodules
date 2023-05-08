@@ -27,3 +27,8 @@
 	path = Integrated-Path/od_move_balance
 	url = git@github.com:Integrated-Path/od_move_balance.git
 	branch = 16
+
+[submodule "Integrated-Path/accounting_partner_ledger"]
+	path = Integrated-Path/accounting_partner_ledger
+	url = git@github.com:Integrated-Path/accounting_partner_ledger.git
+	branch = master
