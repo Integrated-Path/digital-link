@@ -37,3 +37,8 @@
 	path = Integrated-Path/stock_available
 	url = git@github.com:Integrated-Path/stock_available.git
 	branch = master
+
+[submodule "Integrated-Path/pos_stock_available_online"]
+	path = Integrated-Path/pos_stock_available_online
+	url = git@github.com:Integrated-Path/pos_stock_available_online.git
+	branch = master
