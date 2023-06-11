@@ -42,3 +42,8 @@
 	path = Integrated-Path/pos_stock_available_online
 	url = git@github.com:Integrated-Path/pos_stock_available_online.git
 	branch = master
+
+[submodule "Integrated-Path/hyd_restrict_location"]
+	path = Integrated-Path/hyd_restrict_location
+	url = git@github.com:Integrated-Path/hyd_restrict_location.git
+	branch = master
