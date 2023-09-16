@@ -47,3 +47,8 @@
 	path = Integrated-Path/hyd_restrict_location
 	url = git@github.com:Integrated-Path/hyd_restrict_location.git
 	branch = master
+
+[submodule "Integrated-Path/invoice_by_journal_users"]
+	path = Integrated-Path/invoice_by_journal_users
+	url = git@github.com:Integrated-Path/invoice_by_journal_users.git
+	branch = 16
