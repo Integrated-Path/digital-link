@@ -57,3 +57,8 @@
 	path = Integrated-Path/16_Balance_Fix
 	url = git@github.com:Integrated-Path/16_Balance_Fix.git
 	branch = master
+
+[submodule "Integrated-Path/advanced_entertainment_journal_customization"]
+	path = Integrated-Path/advanced_entertainment_journal_customization
+	url = git@github.com:Integrated-Path/advanced_entertainment_journal_customization.git
+	branch = master
