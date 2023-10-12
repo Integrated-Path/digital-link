@@ -62,3 +62,8 @@
 	path = Integrated-Path/advanced_entertainment_journal_customization
 	url = git@github.com:Integrated-Path/advanced_entertainment_journal_customization.git
 	branch = master
+
+[submodule "Integrated-Path/hide_cost_price"]
+	path = Integrated-Path/hide_cost_price
+	url = git@github.com:Integrated-Path/hide_cost_price.git
+	branch = master
