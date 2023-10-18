@@ -57,3 +57,8 @@
 	path = Integrated-Path/sales_team_access_control
 	url = git@github.com:Integrated-Path/sales_team_access_control.git
 	branch = master
+
+[submodule "Integrated-Path/sh_po_own_access"]
+	path = Integrated-Path/sh_po_own_access
+	url = git@github.com:Integrated-Path/sh_po_own_access.git
+	branch = master
