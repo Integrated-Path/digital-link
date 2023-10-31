@@ -67,3 +67,8 @@
 	path = Integrated-Path/hide_cost_price
 	url = git@github.com:Integrated-Path/hide_cost_price.git
 	branch = master
+
+[submodule "Integrated-Path/report_qweb_pdf_watermark"]
+	path = Integrated-Path/report_qweb_pdf_watermark
+	url = git@github.com:Integrated-Path/report_qweb_pdf_watermark.git
+	branch = master
