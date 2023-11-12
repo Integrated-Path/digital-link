@@ -72,3 +72,8 @@
 	path = Integrated-Path/report_qweb_pdf_watermark
 	url = git@github.com:Integrated-Path/report_qweb_pdf_watermark.git
 	branch = master
+
+[submodule "Integrated-Path/mai_product_pricelist_dynamic_listview"]
+	path = Integrated-Path/mai_product_pricelist_dynamic_listview
+	url = git@github.com:Integrated-Path/mai_product_pricelist_dynamic_listview.git
+	branch = master
