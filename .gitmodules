@@ -62,3 +62,8 @@
 	path = Integrated-Path/sh_po_own_access
 	url = git@github.com:Integrated-Path/sh_po_own_access.git
 	branch = master
+
+[submodule "Integrated-Path/mai_product_pricelist_dynamic_listview"]
+	path = Integrated-Path/mai_product_pricelist_dynamic_listview
+	url = git@github.com:Integrated-Path/mai_product_pricelist_dynamic_listview.git
+	branch = master
