@@ -82,3 +82,8 @@
 	path = Integrated-Path/od_job
 	url = git@github.com:Integrated-Path/od_job.git
 	branch = master
+
+[submodule "Integrated-Path/web_remember_tree_column_width"]
+	path = Integrated-Path/web_remember_tree_column_width
+	url = git@github.com:Integrated-Path/web_remember_tree_column_width.git
+	branch = master
