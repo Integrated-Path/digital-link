@@ -87,3 +87,8 @@
 	path = Integrated-Path/web_remember_tree_column_width
 	url = git@github.com:Integrated-Path/web_remember_tree_column_width.git
 	branch = master
+
+[submodule "Integrated-Path/od_unique_mobile"]
+	path = Integrated-Path/od_unique_mobile
+	url = git@github.com:Integrated-Path/od_unique_mobile.git
+	branch = master
