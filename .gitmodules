@@ -77,3 +77,8 @@
 	path = Integrated-Path/od_unique_mobile
 	url = git@github.com:Integrated-Path/od_unique_mobile.git
 	branch = master
+
+[submodule "Integrated-Path/partner_search_by_phone_bs"]
+	path = Integrated-Path/partner_search_by_phone_bs
+	url = git@github.com:Integrated-Path/partner_search_by_phone_bs.git
+	branch = master
